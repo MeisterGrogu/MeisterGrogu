@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @MeisterGrogu
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning Assembly
+- 📫 How to reach me: Email me on leopoldpeters10@gmail.com
+- 😄 Pronouns: He
+- ⚡ Fun fact: I am 13 years old
+- 
