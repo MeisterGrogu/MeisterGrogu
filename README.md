@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MeisterGrogu
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Assembly
+- 🌱 I’m currently writing my own game engine
 - 📫 How to reach me: Email me on leopoldpeters10@gmail.com
 - 😄 Pronouns: He
 - ⚡ Fun fact: I am 13 years old
